@@ -25,7 +25,7 @@ export default function Home() {
               <span className="text-gray-900"> Pages</span>
             </h1>
             <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-              Create stunning pages on-demand with bino.bot's powerful API. 
+              Create stunning pages on-demand with bino.bot&apos;s powerful API. 
             </p>
             <div className="flex justify-center space-x-4">
               <Link 
