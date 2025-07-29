@@ -9,7 +9,7 @@ A modern Next.js application that creates brand-new pages on demand through a po
 
 ## Live Demo
 
-** Live URL**: [Your deployed URL here]  
+** Live URL**: [http://bino-cio4cnk1o-devesh1709s-projects.vercel.app]  
 ** bino.bot Integration**: This app is designed to integrate with bino.bot services
 
 ##  Key Features
@@ -219,7 +219,7 @@ Pre-created example pages to showcase the functionality:
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repo-url]
+   git clone : https://github.com/DEVESH1709/Bino.git
    cd bino
    ```
 
